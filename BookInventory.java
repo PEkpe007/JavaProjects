@@ -1,6 +1,7 @@
 
 //Promise Ekpe
-//Assignment 2
+//This challenge is a lightweight ISBN-13 generator with additional options for book check out or return
+
 import java.util.Scanner;
 
 public class BookInventory {
